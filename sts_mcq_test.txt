@@ -14,5 +14,7 @@
 3. - Create a folder called backend and open that folder in vscode or any IDE
   - Go to github, signup and create a repository, give it a name and go ahead and crreate it
   - you will see a set of instructions starting with git init 
-  - copy the first  command 
+  - copy the first  command and paste it in your terminal in the vscode
+  - the the 2nd in that order till you do the git push
+  - go to github and refresh and see what you pushed there.
   
